@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.header_style {
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+.header {
+    background-color: black;
+    margin: 0;
+    height: 50px;
+}
+
